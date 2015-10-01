@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/megatolya/bj"
+    "url": "https://github.com/slashvortal/bj"
   },
   "licence": "MIT",
   "contributors": [
@@ -44,9 +44,9 @@
     "install": "echo \"npm run-script check\" > .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit"
   },
   "bugs": {
-    "url": "https://github.com/megatolya/bj/issues"
+    "url": "https://slashvortal/bj/issues"
   },
-  "homepage": "https://github.com/megatolya/bj",
+  "homepage": "https://github.com/slashvortal/bj",
   "main": "bj.js",
   "directories": {
     "example": "examples"
