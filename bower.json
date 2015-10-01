@@ -1,9 +1,9 @@
 {
   "name": "bj",
   "version": "1.0.0",
-  "homepage": "https://github.com/megatolya/bj",
+  "homepage": "https://github.com/slashvortal/bj",
   "authors": [
-    "Anatoliy Ostrovskiy <forgetthisbox@gmail.com>"
+    "Anatoliy Ostrovskiy <slash.vortal@gmail.com>"
   ],
   "description": "BEM MVC framework",
   "main": "dist/bj.js",
